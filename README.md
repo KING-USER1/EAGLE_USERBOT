@@ -58,11 +58,9 @@ notifications in Update Channel.
 
 </details>
 
-<details>
 
-  <summary> Video Tutorial 📺 </summary>
 
-```
+
 
 
 
