@@ -80,7 +80,7 @@ notifications in Update Channel.
 
 <h4 align="center">To host Eagleẞø† locally or on any other VPS, Go to</h4>
 
-<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ VΛDΣЯ REPO ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/thevaders/vader">⚡ COBRA REPO ⚡</a></h2>
 ## Mandatory Vars
 
 - Only two of the environment variables are mandatory.
